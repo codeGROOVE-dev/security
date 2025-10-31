@@ -9,13 +9,12 @@ We encourage security research and strive for full transparency with the communi
 
 ## Reporting
 
-Open a public issue: [https://github.com/codeGROOVE-dev/vulnerability-reports/issues](https://github.com/codeGROOVE-dev/security/issues)
-
-Alternative reporting mechanisms are available: see https://codegroove.dev/.well-known/security.txt
+* Open a public issue: [https://github.com/codeGROOVE-dev/vulnerability-reports/issues](https://github.com/codeGROOVE-dev/security/issues)
+* Alternative mechanisms: see https://codegroove.dev/.well-known/security.txt
 
 ## What to expect:
 
-* Response within 72 hours
+* Response within 72h
 * $50 donation to your chosen non-profit for serious vulnerabilities with non-theoretical reproduction steps
 * A request to collaborate on a blog article about the vulnerability
 
