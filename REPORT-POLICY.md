@@ -14,7 +14,7 @@ We encourage security research and strive for full transparency with the communi
 
 ## What to expect:
 
-* Response within 72h
+* Response within 24 hours, resolution within 72 hours
 * A request to collaborate on a blog article
 * $50 donation to a non-profit of your choice for serious vulnerabilities with reproduction steps
 
