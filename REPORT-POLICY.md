@@ -14,7 +14,9 @@ We encourage security research and aim for full transparency with the community 
 
 ## Reporting
 
-Open a public issue: https://github.com/codeGROOVE-dev/vulnerability-reports/issues
+Open a public issue: [https://github.com/codeGROOVE-dev/vulnerability-reports/issues](https://github.com/codeGROOVE-dev/security/issues)
+
+Alternative reporting mechanisms are available: see https://codegroove.dev/.well-known/security.txt
 
 **What to expect:**
 
