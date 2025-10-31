@@ -20,4 +20,4 @@ We encourage security research and strive for full transparency with the communi
 
 ## Safe Harbor
 
-We won't sue you for reporting vulnerabilities. We consider it exempt from DMCA & CFAA prosecution and won't pursue legal action. Go crazy, but avoid customer harm.
+We won't sue you for your security research. We consider it exempt from DMCA & CFAA prosecution and won't pursue legal action. Go crazy, but avoid customer harm.
