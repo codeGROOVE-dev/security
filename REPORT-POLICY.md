@@ -4,7 +4,7 @@ We encourage security research and strive for full transparency with the communi
 
 ## Scope
 
-* **In scope:**: Code at HEAD found at https://github.com/codeGROOVE-dev/ and hosts within `*.codegroove.dev` and `*.codegroove.app`
+* **In scope:** Code at HEAD within https://github.com/codeGROOVE-dev/ and hosts within `*.codegroove.dev` and `*.codegroove.app`
 * **Out of scope:** Issues customers wouldn't care about (spam attacks, local clickjacking, insecure SSL ciphers)
 
 ## Reporting
