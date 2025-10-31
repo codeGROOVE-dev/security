@@ -5,7 +5,7 @@ We encourage security research and strive for full transparency with the communi
 ## Scope
 
 * **In scope:** Code at HEAD within [codeGROOVE-dev](https://github.com/codeGROOVE-dev/), hosts within `*.codegroove.dev` and `*.codegroove.app`
-* **Out of scope:** Issues customers wouldn't care about (spam attacks, local clickjacking, insecure SSL ciphers)
+* **Out of scope:** Issues customers wouldn't care about (spam, local clickjacking, insecure SSL ciphers)
 
 ## Reporting
 
@@ -20,4 +20,4 @@ We encourage security research and strive for full transparency with the communi
 
 ## Safe Harbor
 
-We won't sue you for reporting vulnerabilities. Go crazy, but avoid customer harm.
+We won't sue you for reporting vulnerabilities. We consider it exempt from DMCA & CFAA prosecution and won't pursue legal action. Go crazy, but avoid customer harm.
