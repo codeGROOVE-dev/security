@@ -1,8 +1,6 @@
 # Vulnerability Reporting Policy
 
-## Philosophy
-
-We encourage security research and aim for full transparency with the community and customers on security issues.
+We encourage security research and strive for full transparency with the community and our customers regarding security issues.
 
 ## Scope
 
@@ -18,12 +16,12 @@ Open a public issue: [https://github.com/codeGROOVE-dev/vulnerability-reports/is
 
 Alternative reporting mechanisms are available: see https://codegroove.dev/.well-known/security.txt
 
-**What to expect:**
+## What to expect:
 
 * Response within 72 hours
 * $50 donation to your chosen non-profit for serious vulnerabilities with non-theoretical reproduction steps
-* We'd love to collaborate on a blog article about the vulnerability!
+* A request to collaborate on a blog article about the vulnerability
 
 ## Safe Harbor
 
-We won't sue you for reporting vulnerabilities. Go crazy.
+We won't sue you for reporting vulnerabilities. Go crazy, but please avoid harming our customers.
